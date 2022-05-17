@@ -1,0 +1,6 @@
+5edc14ada09d1cbde0f93502ec557769
+
+http://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=5edc14ada09d1cbde0f93502ec557769
+
+Deployed App:
+https://calm-bastion-09078.herokuapp.com/
