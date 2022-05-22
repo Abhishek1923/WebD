@@ -1,3 +1,7 @@
 // Connect an application to mongodb
 
 mongodb+srv://abhishek230401:MongoDb@1923@cluster0.4wnrh.mongodb.net/DataBaseName
+
+// URL ENCODED
+mongodb+srv://abhishek230401:MongoDb%401923@cluster0.4wnrh.mongodb.net/?retryWrites=true&w=majority
+
