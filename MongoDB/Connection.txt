@@ -7,7 +7,7 @@ mongodb+srv://abhishek230401:MongoDb%401923@cluster0.4wnrh.mongodb.net/?retryWri
 
 mongoose.connect("mongodb://localhost:27017/userDB",{useNewUrlParser:true});
 
-
+// for secrets
 mongoose.connect("mongodb://localhost:27017/userDB",{useNewUrlParser:true});
 
 mongoose.connect("mongodb+srv://abhishek230401:MongoDb%401923@cluster0.4wnrh.mongodb.net/userDB");
